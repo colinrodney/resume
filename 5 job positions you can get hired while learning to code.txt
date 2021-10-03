@@ -1,0 +1,39 @@
+5 Job Positions You can Get Hired While Learning to Code:
+
+Search these keywords:
+
+1. 
+Email developer/ HTML Email developer
+Requirements:
+   HTML CSS + How to make things responsive/       media queries
+Salary range: $45000 - $90000
+
+2. 
+Webmaster
+Requirements:
+HTML / CSS
+How to deploy a site live
+Website TS
+Customer Service
+
+3.(pass)
+Content Editor / Web Producer
+- Takes care of content of website
+Requirements:
+Upload files via FTP (filezilla)
+Basic JS
+Basic CMS Experience (Wordpress/ joomla/ drupal)
+
+
+4.
+Product Editor
+Requirements:
+(Wordpress/ joomla/ drupal)
+e-commerce (shopify etc...)
+Basically know how to use the web + computer
+
+5.
+Junior Developer (keyword - HTML)
+Salary: $30 - $70K
+- Supports Senior Developers
+- Unicorn position!
